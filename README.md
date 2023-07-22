@@ -1,4 +1,4 @@
-- 👨🏽‍💻 FrontEnd Developer
+- 👨🏽‍💻 Web Developer
 
 
 
